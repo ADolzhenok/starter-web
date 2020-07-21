@@ -16,6 +16,8 @@ Smth else part2
 
 ## How To Contribute
 
+Please fork this fepo
+
 ### Copyright
 
 Copy p3
