@@ -15,3 +15,7 @@ Smth else...
 Smth else part2 
 
 ## How To Contribute
+
+### Copyright
+
+Copy p3
