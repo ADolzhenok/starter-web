@@ -1,7 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how to use Gut and GitHub together Adding a line
-more chenges
+This is a simple website project for showing how to use Gut and GitHub together Updating for emergency fix after stash
 
 ## Introduction
 
